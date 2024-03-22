@@ -2,7 +2,7 @@
 
 ## Step 1 - Using Codeblocks.
 
-Codeblocks in markdown make it *very easy* for tech people to **copy, paste, and share** code.
+Codeblocks in markdown make it *very easy* for tech people to **copy, paste, and share** code.[<sup>[1]</sup>](#external-references)
 A good __Cloud Engineer__ uses Codeblocks whenever possible.
 
 Because it allows others to copy and paste their code to replicate or research issues.
@@ -31,14 +31,14 @@ Traceback(most recent call last):
 > Here is an example of using a Codeblock for an error that appears in bash.
 
 ## Step 3 Use Github Flavoured Markdown Task List
-Github extends Markdown to have a list where you can check off items. <sup>[1]</sup>
+Github extends Markdown to have a list where you can check off items.<sup>[2]</sup>
 
 - [x] Finish Step 1
 - [x] Finish Step 2
 
 ## Step 4 - Use Emojis (Optional)
 
-Github Flavoured Markdown (GFM) supports emoji shortcodes. [<sup>[1]</sup>](#external-references)
+Github Flavoured Markdown (GFM) supports emoji shortcodes. 
 Here are some examples:
 
 |Name|Shortcode|Emoji|
@@ -54,6 +54,8 @@ Here are some examples:
 | Cloud |  `:cloud:` | :cloud: |
 | Cloud with lighting |  `cloud_with_lighting` | 🌩️ |
 ```
+
+![photo](assets/Screen Shot 2024-03-22 at 14.56.38 PM.png)
 
 ## References
 - http://github.com
