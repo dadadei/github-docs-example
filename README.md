@@ -57,7 +57,7 @@ Here are some examples:
 
 ![photo](assets/1.jpg)
 
-[Secret Window](secret-window/hidden-garden.md)
+[Secret Window](assets/secret-window/hidden-garden.md)
 
 ## References
 - http://github.com
