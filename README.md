@@ -57,6 +57,8 @@ Here are some examples:
 
 ![photo](assets/1.jpg)
 
+[Secret Window](secret-window/hidden-garden.md)
+
 ## References
 - http://github.com
 - [official website github](http://github.com)<sup>[1]<sup>
