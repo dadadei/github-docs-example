@@ -55,7 +55,7 @@ Here are some examples:
 | Cloud with lighting |  `cloud_with_lighting` | 🌩️ |
 ```
 
-![photo](assets/Screen Shot 2024-03-22 at 14.56.38 PM.png)
+![photo](assets/1.jpg)
 
 ## References
 - http://github.com
